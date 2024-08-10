@@ -71,5 +71,6 @@ npm run start
 
 ### Project is deployed on AWS!
 
-![nodejs app deployed on AWS](https://github.com/user-attachments/assets/14094cf5-c67f-41b0-a02a-30bb49c163f0)
+![nodejs app deployed on AWS](https://github.com/user-attachments/assets/334f55bb-307d-4d22-9958-db5e29270f01)
+
 
